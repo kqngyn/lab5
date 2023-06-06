@@ -4,9 +4,9 @@
 In this lab, I will design a debugging scenario in the spirit and style of the scenario in class. My report will be written as a conversation on EdStem. <br>
 
 **The Post** <br>
-![Image](lab5.1.jpg) <br>
-Here is a closer look at the screenshot provided: <br>
 ![Image](lab5.2.jpg) <br>
+Here is a closer look at the screenshot provided: <br>
+![Image](lab5.1.jpg) <br>
 
 **TA Response** <br>
 When running a JUnit test, you should not include the .java extension in the class name because JUnit expects the class name itself, without the file extension. <br>
